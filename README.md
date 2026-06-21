@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**manvi2707/manvi2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Manvi, a CSE student based in India.
 
-Here are some ideas to get you started:
+I mostly work on full-stack stuff — MongoDB, Express, React, and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently diving into AI/ML and exploring how to blend it with the web apps I build.
+
+This is my space where I'll be uploading projects, experiments, and things I'm currently working on.
+
+---
+
+### Tools & Tech
+
+- MongoDB, Express, React, Node.js (MERN)
+- Java, Python, Git, VS Code, SQL, C/C++
+- Pandas, NumPy, Matplotlib
+
+---
+
+### A Bit About Me
+
+- 🎓 3rd year B.E. CSE student at Chitkara University
+- 🤖 Fascinated by AI/ML — learning one model at a time
+- 📚 Engineer by degree, reader by soul — books are my second personality
+- 💡 I like building things that are simple, useful, and actually work
