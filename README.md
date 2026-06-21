@@ -1,9 +1,9 @@
 # Hey there 👋
 
-I'm Manvi, a CSE student based in India.
-I mostly work on full-stack stuff — MongoDB, Express, React, and Node.js.
-I'm currently diving into AI/ML and exploring how to blend it with the web apps I build.
-This is my space where I'll be uploading projects, experiments, and things I'm currently working on.
+I'm Manvi, a CSE student based in India.<br>
+I mostly work on full-stack stuff — MongoDB, Express, React, and Node.js.<br>
+I'm currently diving into AI/ML and exploring how to blend it with the web apps I build.<br>
+This is my space where I'll be uploading projects, experiments, and things I'm currently working on.<br>
 
 ---
 
